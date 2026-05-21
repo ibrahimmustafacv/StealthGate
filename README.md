@@ -1,30 +1,50 @@
-# Lockphish v2.0
+# StealthGate (formerly Lockphish) – Advanced Lock Screen Phishing Tool
 
-Lockphish it's the first tool (07/04/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
-## LockPhish Tutorial: https://www.kalilinux.in/2020/05/lockphish.html
-## Author: The Linux Choice (Who deleted his GitHub repository)
-## Twitter: https://twitter.com/linux_choice
+**Developed & Maintained by:** Ibrahim Mustafa  
+**GitHub:** [https://github.com/ibrahimmustafacv](https://github.com/ibrahimmustafacv)
 
+---
 
+## 📌 Description
 
-### Features:
+StealthGate is a powerful **educational tool** for phishing attacks on lock screens.  
+It can capture **Windows credentials, Android PIN, and iPhone passcode** using a public HTTPS link.  
+The tool uses **Cloudflare Tunnel** (free, no ngrok required) to create a public link, and optionally supports ngrok.
 
-#### Lockscreen phishing page for Windows, Android and iPhone
-#### Auto detect device
-#### Port Forwarding by Ngrok
-#### IP Tracker
+> **⚠️ Legal Disclaimer:** This tool is designed for **authorized security testing and educational purposes only**.  
+> Attacking targets without prior mutual consent is **illegal**. The developer assumes no liability for any misuse.
 
-## Legal disclaimer:
+---
 
-Usage of Lockphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. 
+## ✨ Features
 
-### Usage:
-```
-git clone https://github.com/kali-linux-tutorial/lockphish
-cd lockphish
-bash lockphish.sh
-```
-## Conclusion
-This is a great phishing tool which you use in your android system al well as pc.
-Just install **Termux** and follow the usage command.
+- ✅ **Lock screen phishing pages** for Windows, Android, and iPhone  
+- ✅ **Manual attack type selection** (Android PIN / Windows Password / iPhone Passcode)  
+- ✅ **Cloudflare Tunnel integration** (free, automatic)  
+- ✅ **IP & User‑Agent tracking**  
+- ✅ **Auto‑saving** of stolen credentials (PINs, passwords, passcodes)  
+- ✅ **Clean landing page** with a button – no unwanted file downloads  
+- ✅ **Custom redirect URL** after data capture
 
+---
+
+## 📦 Requirements
+
+- Kali Linux (or any Linux distribution with PHP)  
+- Internet connection (for Cloudflare Tunnel)  
+- PHP (`sudo apt install php -y`)
+
+---
+
+## 🚀 Installation & Usage
+
+```bash
+# 1. Clone the repository (or download the script)
+git clone https://github.com/ibrahimmustafacv/StealthGate.git
+cd StealthGate
+
+# 2. Make the script executable
+chmod +x lockphish.sh
+
+# 3. Run the tool
+./lockphish.sh
