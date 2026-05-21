@@ -1,0 +1,22 @@
+IP: 197.32.48.34
+ User-Agent: WhatsApp/2.23.20.0IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 5.1; HUAWEI LUA-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 5.1; HUAWEI LUA-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 9; Infinix X653 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 9; Infinix X653 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 9; Infinix X653 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 9; Infinix X653 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36IP: 197.32.48.34
+ User-Agent: WinHTTP Example/1.0IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 5.1; HUAWEI LUA-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: WhatsApp/2.23.20.0IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 5.1; HUAWEI LUA-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 9; Infinix X653 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 9; Infinix X653 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 9; Infinix X653 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 9; Infinix X653 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Mobile Safari/537.36IP: 197.32.48.34
+ User-Agent: Mozilla/5.0 (Linux; Android 9; Infinix X653 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.179 Mobile Safari/537.36
