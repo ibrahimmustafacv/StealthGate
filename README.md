@@ -1,5 +1,9 @@
 # StealthGate (formerly Lockphish) – Advanced Lock Screen Phishing Tool
 
+<p align="center">
+  <img src="Logo.png" alt="StealthGate Logo" />
+</p>
+
 **Developed & Maintained by:** Ibrahim Mustafa  
 **GitHub:** [https://github.com/ibrahimmustafacv](https://github.com/ibrahimmustafacv)
 
